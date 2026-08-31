@@ -3,6 +3,8 @@
 
 **Senior Biostatistician | R Programmer | Reproducible Research | Statistical Computing**
 
+**I mainly work as a biostatistician at the Toronto General Hospital. Due to PHI use, none of my R analyses are on Github. **
+
 I work at the intersection of **biostatistics, statistical programming, and reproducible research**. My main programming language is **R**, and I enjoy building tools that make statistical analyses more reproducible, structured, and easier to maintain.
 
 I also develop software independently, including **Flutter/Dart Android apps**, because I enjoy learning new technologies and building things from idea to working product.
@@ -60,11 +62,11 @@ An Android violin tuner designed for children learning violin.
 
 I designed, developed, tested, built, and published the application myself.
 
-### Violin Motivation App
+### [Violin Motivation App] (https://github.com/mbbrigitte/motivation-app)
 
 A second Flutter application designed to motivate children to practice violin through a game-like reward system.
 
-It includes a **practice timer, rewards/tokens, and a game-oriented interface** aimed at young violin students.
+It includes a **practice timer, rewards/tokens, and a games** to motivate young violinists.
 
 **Flutter · Dart · Android · UI/UX · app development**
 
@@ -80,13 +82,12 @@ R Markdown report templates and themes developed to support consistent statistic
 
 **R · R Markdown · LaTeX**
 
-### [FANETC](https://github.com/mbbrigitte/fanetc)
+### [TRCP statistical analysis](https://github.com/TRCHR-CP/trcpetc)
 
-An R package for analytics preparation.
+Contribution to R package for descriptive analyses.
 
-### [Survival Analysis Theory](https://github.com/mbbrigitte/SurvivalAnalysis_Theory)
+**R**
 
-Exercises, examples, and theoretical material covering survival analysis.
 
 ### [Predicting Heart Disease](https://github.com/mbbrigitte/Predicting_heart_disease_UCI)
 
@@ -97,6 +98,8 @@ An earlier machine-learning/statistical modelling project using the UCI heart di
 An early **R Shiny application for semantic/text analysis**.
 
 This is an older project, but it reflects my longstanding interest in combining statistical methods with interactive software.
+
+### [Collection of scripts for climate data analysis](https://github.com/mbbrigitte/drysoils_hotdays)
 
 ---
 
@@ -158,7 +161,7 @@ That can mean:
 | **[TRCP Templates](https://github.com/mbbrigitte/TRCP_Templates)** | R Markdown · reporting · LaTeX |
 | **Dockerized R environment** | Docker · reproducible computing |
 | **[Violin Tuner Kids](https://github.com/mbbrigitte/violin-tuner-kids)** | Flutter · Dart · Android |
-| **Violin Motivation App** | Flutter · Dart · Android · game-based learning |
+| **[Violin Motivation App*](https://github.com/mbbrigitte/motivation-app)** | Flutter · Dart · Android · game-based learning |
 | **[Text Analysis Shiny](https://github.com/mbbrigitte/Text_analysis_ShinyR)** | R · Shiny · text analysis |
 | **[Survival Analysis Theory](https://github.com/mbbrigitte/SurvivalAnalysis_Theory)** | R · survival analysis · statistical education |
 | **[Quantile Regression](https://github.com/mbbrigitte/Quantile_Regression)** | R · statistical modelling · research |
