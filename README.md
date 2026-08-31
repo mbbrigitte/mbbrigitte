@@ -82,14 +82,9 @@ My GitHub also contains earlier statistical programming and data-science project
 
 R Markdown report templates and themes developed to support consistent statistical reporting.
 
-**R · R Markdown · LaTeX**
-
 ### [TRCP statistical analysis](https://github.com/TRCHR-CP/trcpetc)
 
 Contribution to R package for descriptive analyses.
-
-**R**
-
 
 ### [Predicting Heart Disease](https://github.com/mbbrigitte/Predicting_heart_disease_UCI)
 
