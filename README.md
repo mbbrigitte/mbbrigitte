@@ -32,6 +32,8 @@ I developed an interactive R package that creates a complete project structure f
 
 The goal is to make a new statistical project **structured, reproducible, and ready to work on from day one**, rather than repeatedly recreating the same infrastructure manually.
 
+This was the first package I developed with the help of **Github Copilot**.
+
 **R · R packages · Quarto · Git · Docker · reproducible research**
 
 ---
