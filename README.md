@@ -13,7 +13,7 @@ I also develop software independently, including **Flutter/Dart Android apps**, 
 
 ## Statistical programming & reproducible research
 
-A major part of my work is developing tools and infrastructure for clinical and research projects.
+A part of my work I particularly enjoy is developing tools and infrastructure for clinical and research projects.
 
 ### [TRCP Project Generator](https://github.com/TRCHR-CP/trcpproject)
 
