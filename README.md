@@ -73,6 +73,12 @@ It includes a **practice timer, rewards/tokens, and games** to motivate young vi
 **Flutter · Dart · Android · UI/UX · app development**
 
 ---
+## AI research
+For a proposal I recently wrote, I created a pilot to estimate API-usage. The project includes a list of tasks (i.e. prompts for AI systems) and python scripts to send these prompts to the API of two different OpenAI models (gpt astra and gpt luna), and appends the token usage to the results. A second python file translates the token usage into Dollars to easily include in the research proposal. 
+
+What I learned in this project is to work with AI models through API, and that different models have enormous differences in pricing and execution time. The project is hosted under [Decide-pilot on GitHub](https://github.com/TRCHR-CP/decide-pilot).
+
+---
 
 ## R, statistics & data science
 
