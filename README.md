@@ -64,13 +64,15 @@ An Android violin tuner designed for children learning violin.
 
 I designed, developed, tested, built, and published the application myself.
 
-### [Violin Motivation App](https://github.com/mbbrigitte/motivation-app)
+### [Violin Motivation App](https://github.com/mbbrigitte/violin-motivation-public)
 
 A second Flutter application designed to motivate children to practice violin through a game-like reward system.
 
 It includes a **practice timer, rewards/tokens, and games** to motivate young violinists.
 
 **Flutter · Dart · Android · UI/UX · app development**
+
+Note that the link only leads to a public README since the original code is private, but the game will be available on Google Play Store in November 2026.
 
 ---
 ## AI research
