@@ -17,11 +17,14 @@
 
 # Hi, I'm Brigitte
 
-**I mainly work as a biostatistician at the Toronto General Hospital. Due to PHI use, none of my R analyses are on Github. **
+I'm a **Senior Biostatistician at Toronto General Hospital**, working at the intersection of biostatistics, statistical programming, and reproducible research.
 
-I work at the intersection of **biostatistics, statistical programming, and reproducible research**. My main programming language is **R**, and I enjoy building tools that make statistical analyses more reproducible, structured, and easier to maintain.
+My main programming language is **R**. I enjoy developing tools and infrastructure that make statistical analyses more structured, reproducible, and easier to maintain.
 
 I also develop software independently, including **Flutter/Dart Android apps**, because I enjoy learning new technologies and building things from idea to working product.
+
+Since my clinical work involves protected health information (PHI), the underlying clinical datasets and analyses aren't published on GitHub. Instead, this profile showcases selected projects, reusable tools, and examples of my programming work.
+
 
 ---
 
@@ -42,13 +45,12 @@ I developed an interactive R package that creates a complete project structure f
 - analyst and project metadata
 - automatic session information
 - optional Git repository initialization
-- support for Dockerized R environments
 
 The goal is to make a new statistical project **structured, reproducible, and ready to work on from day one**, rather than repeatedly recreating the same infrastructure manually.
 
 This was the first package I developed with the help of **Github Copilot**.
 
-**R · R packages · Quarto · Git · Docker · reproducible research**
+**R · R packages · Quarto · Git **
 
 ---
 
@@ -192,3 +194,32 @@ That can mean:
 Most of my professional statistical programming has been developed in research environments, while this profile highlights selected projects that demonstrate my approach to **statistical programming, reproducibility, software development, and learning new technologies**.
 
 Thanks for visiting!
+
+## A little mystery
+
+<details>
+  <summary>🥚 I found a strange egg. Should I touch it?</summary>
+
+  <br>
+
+  The egg begins to shake...
+
+  ✨ *Crack!*
+
+  🐉 **A tiny dragon emerges!**
+
+  "Congratulations, curious coder. You found the hidden part of my profile."
+
+  My advice: keep experimenting, keep building, and never underestimate what can hatch from a small idea.
+
+  <br>
+
+  <i>Dragon status: awake. Code status: compiling.</i>
+
+</details>
+
+---
+
+<p align="center">
+  <i>Building useful things with data and code — with a little dragon fire.</i> 🐉
+</p>
