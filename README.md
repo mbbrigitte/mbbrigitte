@@ -1,8 +1,7 @@
 
-![Brigitte — Statistics and Software](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0B1020,50:123C43,100:1E6B68&text=Brigitte%20%7C%20Statistics%20%26%20Software&fontColor=E6FFFB&fontSize=34&fontAlignY=50&animation=fadeIn)
 
 <p align="center">
-  <strong>Senior Biostatistician · R Programmer · Reproducible Research</strong>
+  <strong>Senior Biostatistician · R Programmer · Reproducible Research · Statistical Computing</strong>
 </p>
 
 <p align="center">
@@ -17,8 +16,6 @@
 
 
 # Hi, I'm Brigitte
-
-**Senior Biostatistician | R Programmer | Reproducible Research | Statistical Computing**
 
 **I mainly work as a biostatistician at the Toronto General Hospital. Due to PHI use, none of my R analyses are on Github. **
 
