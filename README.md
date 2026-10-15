@@ -46,7 +46,7 @@ The goal is to make a new statistical project **structured, reproducible, and re
 
 This was the first package I developed with the help of **Github Copilot**.
 
-**R · R packages · Quarto · Git **
+**R · R packages · Quarto · Git**
 
 ---
 
