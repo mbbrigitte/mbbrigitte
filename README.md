@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Building reliable analytical tools, reproducible workflows, and software from idea to working product.
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=r,python,dart,flutter,docker,git,githubactions,linux" alt="R, Python, Dart, Flutter, Docker, Git, GitHub Actions and Linux" />
 </p>
 
