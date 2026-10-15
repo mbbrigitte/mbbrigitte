@@ -1,4 +1,21 @@
 
+![Brigitte — Statistics and Software](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0B1020,50:123C43,100:1E6B68&text=Brigitte%20%7C%20Statistics%20%26%20Software&fontColor=E6FFFB&fontSize=34&fontAlignY=50&animation=fadeIn)
+
+<p align="center">
+  <strong>Senior Biostatistician · R Programmer · Reproducible Research</strong>
+</p>
+
+<p align="center">
+  Building reliable analytical tools, reproducible workflows, and software from idea to working product.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=r,python,dart,flutter,docker,git,githubactions,linux" alt="R, Python, Dart, Flutter, Docker, Git, GitHub Actions and Linux" />
+</p>
+
+---
+
+
 # Hi, I'm Brigitte
 
 **Senior Biostatistician | R Programmer | Reproducible Research | Statistical Computing**
