@@ -129,8 +129,6 @@ My older repositories also include work in:
 - interactive data analysis
 - statistical teaching materials
 
-For example, my repository **[Quantile Regression](https://github.com/mbbrigitte/Quantile_Regression)** contains code associated with published research from my earlier work.
-
 ---
 
 ## Technologies
@@ -194,18 +192,13 @@ For example, my repository **[Quantile Regression](https://github.com/mbbrigitte
 
   🐉 **A tiny dragon emerges!**
 
-  "Congratulations, curious coder. You found the hidden part of my profile."
+  Congratulations, curious coder. You found the hidden part of my profile.
 
-  My advice: keep experimenting, keep building, and never underestimate what can hatch from a small idea.
+  See what hatches from your own ideas. Happy coding!.
 
   <br>
-
-  <i>Dragon status: awake. Code status: compiling.</i>
 
 </details>
 
 ---
 
-<p align="center">
-  <i>Building useful things with data and code — with a little dragon fire.</i> 🐉
-</p>
