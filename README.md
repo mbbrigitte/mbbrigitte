@@ -42,7 +42,7 @@ I developed an interactive R package that creates a complete project structure f
 - automatic session information
 - optional Git repository initialization
 
-The goal is to make a new statistical project **structured, reproducible, and ready to work on from day one**, rather than repeatedly recreating the same infrastructure manually.
+The goal is to make a new statistical project structured and consistent across the team.
 
 This was the first package I developed with the help of **Github Copilot**.
 
@@ -58,10 +58,6 @@ I also maintain a Docker-based R environment used for reproducible statistical p
 
 I maintain the image, update it as needed, and publish new versions through GitHub/Container Registry.
 
-This reflects an important principle in my work:
-
-> **Reproducibility should include the computing environment, not just the analysis code.**
-
 ---
 
 ## Independent app development
@@ -70,7 +66,7 @@ Outside of my statistical work, I build Android applications using **Flutter and
 
 ### [Violin Tuner Kids](https://github.com/mbbrigitte/violin-tuner-kids)
 
-An Android violin tuner designed for children learning violin.
+An Android violin tuner designed for children learning to play the violin.
 
 **Flutter · Dart · Android · Google Play**
 
@@ -78,13 +74,13 @@ I designed, developed, tested, built, and published the application myself.
 
 ### [Violin Motivation App](https://github.com/mbbrigitte/violin-motivation-public)
 
-A second Flutter application designed to motivate children to practice violin through a game-like reward system.
+A second Flutter application designed to motivate children to practice violin through a game-like reward system. 
 
 It includes a **practice timer, rewards/tokens, and games** to motivate young violinists.
 
 **Flutter · Dart · Android · UI/UX · app development**
 
-Note that the link only leads to a public README since the original code is private, but the game will be available on Google Play Store in November 2026.
+Note that the link only leads to a public README since the original code is private, but the game is available on the Google Play Store.
 
 ---
 ## AI research
@@ -108,15 +104,17 @@ Contribution to R package for descriptive analyses.
 
 ### [Predicting Heart Disease](https://github.com/mbbrigitte/Predicting_heart_disease_UCI)
 
-An earlier machine-learning/statistical modelling project using the UCI heart disease dataset.
+An earlier machine-learning/statistical modelling project using the UCI heart disease dataset (only used as show-case for a job application in 2016).
 
 ### [Text Analysis with Shiny](https://github.com/mbbrigitte/Text_analysis_ShinyR)
 
 An early **R Shiny application for semantic/text analysis**.
 
-This is an older project, but it reflects my longstanding interest in combining statistical methods with interactive software.
+This is an older project and now to updated API requirements not completely functioning, but it reflects my longstanding interest in combining statistical methods with interactive software.
 
 ### [Collection of scripts for climate data analysis](https://github.com/mbbrigitte/drysoils_hotdays)
+
+Some scripts for my PNAS paper published during my PhD years.
 
 ---
 
@@ -151,22 +149,20 @@ For example, my repository **[Quantile Regression](https://github.com/mbbrigitte
 
 **Other**
 
-`SQL` · `Python` · `Linux`
+`Python` · `Linux`
 
 ---
 
-## What I enjoy building
+## What I enjoy building ...
 
-I particularly enjoy projects where **statistics, programming, and real-world research problems meet**.
-
-That can mean:
+.. Projects at the interface of **statistics, programming, and real-world research problems**.
 
 - turning repetitive statistical workflows into reusable R packages
 - creating reproducible research infrastructure
 - making analyses easier for other researchers to run and maintain
 - building statistical reports and interactive applications
 - developing simulation and modelling tools
-- learning a completely new technology and building something with it
+- learning cmpletely new technologies and building something
 
 ---
 
@@ -175,7 +171,7 @@ That can mean:
 | Project | Focus |
 |---|---|
 | **[TRCP Project Generator](https://github.com/TRCHR-CP/trcpproject)** | R package · project automation · reproducibility |
-| **[TRCP Templates](https://github.com/mbbrigitte/TRCP_Templates)** | R Markdown · reporting · LaTeX |
+| **[TRCP Templates](https://github.com/mbbrigitte/TRCP_Templates)** | R Markdown · reporting |
 | **Dockerized R environment** | Docker · reproducible computing |
 | **[Violin Tuner Kids](https://github.com/mbbrigitte/violin-tuner-kids)** | Flutter · Dart · Android |
 | **[Violin Motivation App*](https://github.com/mbbrigitte/motivation-app)** | Flutter · Dart · Android · game-based learning |
@@ -184,12 +180,6 @@ That can mean:
 | **[Quantile Regression](https://github.com/mbbrigitte/Quantile_Regression)** | R · statistical modelling · research |
 
 ---
-
-## GitHub
-
-Most of my professional statistical programming has been developed in research environments, while this profile highlights selected projects that demonstrate my approach to **statistical programming, reproducibility, software development, and learning new technologies**.
-
-Thanks for visiting!
 
 ## A little mystery
 
